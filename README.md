@@ -1,5 +1,7 @@
 ## Demo Chat App
 
+Demo chat app code for the YouTube video.
+
 Watch the video 👇
 
 
